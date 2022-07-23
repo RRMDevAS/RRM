@@ -1,0 +1,20 @@
+﻿Privacy policy
+This is a privacy policy for a mobile game Real-time Racing Manager created by Adnan Sljivo (RRM Dev) and it explains the personal data is collected when using the app. 
+    
+    1. The Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, and information about the way you use the Application. This information is collected through following services:
+		- Google Analytics
+		- Firebase 
+    
+    2. This game uses advertising currently provided by Admob and anonymous statistical information is reported to them so they can see whether their adverts are effective. Click for more information about Admob. 
+    
+    3. Crash reports provided by Google Play Console are used for analysis and bug fixes.
+        ◦ If you do have a crash, then we may upload logging information to help diagnose the crash. Logging information contains information about capabilities of your device.
+    
+    4. Any information may be disclosed if there is a legal obligation to do so. 
+    
+    5. Some of the collected information is stored securely. Please be aware that security breaches are always possible. 
+    
+    6. Any changes to privacy policy will be posted here. 
+    
+    7. Send any questions about this policy to contact.rrm@gmail.com
+
